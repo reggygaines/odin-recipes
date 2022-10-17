@@ -1,0 +1,3 @@
+To whom it may concern...
+
+This is my very first project under the Odin Project curriculum. The project is titled "Recipes" and involves the use of HTML. 
