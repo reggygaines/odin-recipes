@@ -1,15 +1,47 @@
-.title {
+/* Template Style */
+
+body{
+    margin-left: 50px;
+}
+h1 {
     color: blue;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 50px;
     text-align: center;
 }
 
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #3c3c3d;
+}
+
+ul {
+    background-color: #f0f9f8;
+    width: 500px;
+    padding: 10px;
+    padding-left: 30px;
+    margin: 20px;
+    line-height: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ol {
+    background-color: #f0f9f8;
+    width: 500px;
+    padding: 10px;
+    padding-left: 30px;
+    margin: 20px;
+    line-height: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Index Style */
+
 .links-to-recipes {
     text-align: center;
     line-height: 1.8;
     padding-left: 30px;
-    background-color: aliceblue;
+    background-color: #f0f9f8;
     
 }
 
@@ -20,7 +52,9 @@
     padding-right: 20px;
 }
 
-.curry-title {
-    color: #f0f9f8;
-    font-size: 50px;
+/* Curry Style */
+
+img {
+    height: auto;
+    width: 500px;
 }
